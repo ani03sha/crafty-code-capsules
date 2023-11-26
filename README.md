@@ -4,5 +4,14 @@ Bunch of practice projects from the web which I have worked on while learning di
 
 ## React
 
-### [Personal Portfolio](https://www.youtube.com/watch?v=hYv6BM2fWd8)
-Personal Portfolio built using React, Bootstrap and Animate CSS.# crafty-code-capsules
+### 1. Personal Portfolio
+Personal portfolio built using **React**, **Bootstrap** and **Animate CSS**.
+- [Reference](https://www.youtube.com/watch?v=hYv6BM2fWd8)
+- [Code](https://github.com/ani03sha/crafty-code-capsules/tree/main/react/personal-portfolio)
+
+## NextJS
+
+### 1. Modern Portfolio
+Modern portfolio website using **Next.js**, **Framer Motion**, **TypeScript**, **Tailwind CSS**, **Email**.
+- [Reference](https://www.youtube.com/watch?v=sUKptmUVIBM)
+- [Code](https://github.com/ani03sha/crafty-code-capsules/tree/main/nextjs/modern-portfolio)
