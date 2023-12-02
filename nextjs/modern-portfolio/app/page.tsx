@@ -2,6 +2,7 @@ import About from "@/components/about";
 import Intro from "@/components/intro";
 import Projects from "@/components/projects";
 import SectionDivider from "@/components/section-divider";
+import Skills from "@/components/skills";
 
 const Home = () => { 
     return (
@@ -10,6 +11,7 @@ const Home = () => {
             <SectionDivider />
             <About />
             <Projects />
+            <Skills />
         </main>
     )
 };
